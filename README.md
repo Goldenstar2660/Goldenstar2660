@@ -1,4 +1,8 @@
-<p align="center">Hey I'm Derek!! I've uploaded a few of my projects below - feel free to check them out!</p>
+<h2 align="left">Hey!!</h2>
+
+###
+
+<p align="left">I'm Derek!! I've uploaded a few of my projects below - feel free to check them out!</p>
 
 ###
 
@@ -8,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
