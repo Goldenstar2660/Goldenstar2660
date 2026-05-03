@@ -1,42 +1,28 @@
-<h1 align="left">:wave:Hey!!</h1>
+## Hi, I'm Derek 👋
 
-###
+I'm a 1A Systems Design Engineering student @ **University of Waterloo**.
 
-<p align="left">I'm Derek!! I've uploaded a few of my projects below - feel free to check them out!</p>
+Backend engineer at heart, currently exploring agentic AI workflows: autonomous agents, LLM tool-calling, RAG pipelines, and human-in-the-loop systems.  
 
-###
+Spending my co-op term applying this in practice: leading a GitHub Copilot rollout to our 220 developers and shipping prompting playbooks for daily engineering workflows.
 
-<h3 align="left">Things I code with</h3>
+### 🛠️ Building with
 
-###
+**Languages:** TypeScript · Python · C# · SQL · Java  
+**Backend:** Node.js · Express · FastAPI · .NET · REST APIs · Microservices  
+**Frontend:** React · TypeScript · Razor Pages  
+**AI/ML:** OpenAI APIs · RAG · Vector Search · TensorFlow · OpenCV  
+**Infra & Data:** Docker · AWS · Azure (AKS) · CI/CD · PostgreSQL · SQL Server  
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-</div>
-<!---
-###
+### 🏆 Recent Hackathons
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Goldenstar2660&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- **🥇 Engagemint** — 1st @ Mac-a-thon 2026 (300+ participants)
+  - Real-time CV/ML pipeline scoring live classroom engagement on edge devices
+- **🥇 EasyGrant** — 1st @ Future Cities Hackathon (100+ participants)
+  - RAG-powered assistant that cuts grant proposal drafting time by 90% for small communities
+- **🥈 Deltawash** — 2nd @ DeltaHacks 12 (600+ participants)
+  - Computer vision pipeline detecting handwashing protocol violations in real time
 
-###
--->
+### 📫 Connect
+
+[Email](mailto:d346chen@uwaterloo.ca) · Pinned projects below ↓
