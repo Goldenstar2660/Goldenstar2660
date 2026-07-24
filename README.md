@@ -1,15 +1,13 @@
 ## Hi, I'm Derek 👋
 
-I'm a 1A Systems Design Engineering student @ **University of Waterloo**.
+I'm an incoming 1A Software Engineering student @ University of Waterloo. 
 
-Backend engineer at heart, currently exploring agentic AI workflows: autonomous agents, LLM tool-calling, RAG pipelines, and human-in-the-loop systems.  
-
-Spending my co-op term applying this in practice: leading a GitHub Copilot rollout to our 220 developers and shipping prompting playbooks for daily engineering workflows.
+I'm currently interested in agentic AI workflows! I previously spent a co-op term at the Ontario Ministry of Transportation, where I led a GitHub Copilot rollout to their 220 developers and built an internal library of custom agents, skills, and workflows.
 
 ### 🛠️ Building with
 
 **Languages:** TypeScript · Python · C# · SQL · Java  
-**Backend:** Node.js · Express · FastAPI · .NET · REST APIs · Microservices  
+**Backend:** Node.js · Express · FastAPI · .NET · REST APIs  
 **Frontend:** React · TypeScript · Razor Pages  
 **AI/ML:** OpenAI APIs · RAG · Vector Search · TensorFlow · OpenCV  
 **Infra & Data:** Docker · AWS · Azure (AKS) · CI/CD · PostgreSQL · SQL Server  
